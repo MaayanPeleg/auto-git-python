@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 from git import Repo
 
-repo = Repo(".")
+repo = Repo("C:/Users/maaya/OneDrive/Wiley-Edge-Training/Week4/Python/GitCheck/main.py")
 
 assert not repo.bare
 
